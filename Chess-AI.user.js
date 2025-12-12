@@ -12,7 +12,7 @@
 // @grant       GM.setValue
 // @grant       GM.getResourceText
 // @grant       GM.download
-// @resource    stockfish.js        https://raw.githubusercontent.com/allanaltarugio/ChessIA/refs/heads/main/stockfish.js
+// @resource    stockfish.js        https://raw.githubusercontent.com/SnoWz96x/ChessIA/refs/heads/main/stockfish.js
 // @require     https://greasyfork.org/scripts/445697/code/index.js
 // @require     https://code.jquery.com/jquery-3.6.0.min.js
 // @connect     localhost
