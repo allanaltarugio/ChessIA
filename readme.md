@@ -142,7 +142,7 @@ Evite usar em partidas ranqueadas — pode violar os termos do Chess.com.
 
 ## 🙌 Créditos
 
-- Criado por [allanaltarugio](https://github.com/allanaltarugio)  
+- Criado por [SnoWz96x](https://github.com/SnoWz96x)  
 - Baseado no [Stockfish](https://stockfishchess.org/)  
 
 ---
@@ -150,3 +150,4 @@ Evite usar em partidas ranqueadas — pode violar os termos do Chess.com.
 ## 📜 Licença
 
 Uso pessoal apenas. Não distribuir.
+
