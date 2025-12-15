@@ -149,7 +149,9 @@ Evite usar em partidas ranqueadas — pode violar os termos do Chess.com.
 
 ## 📜 Licença
 
-Uso pessoal apenas. Não distribuir.
+This project is licensed under the MIT License.
+
+
 
 
 
