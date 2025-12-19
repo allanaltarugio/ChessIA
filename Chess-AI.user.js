@@ -7,6 +7,7 @@
 // @license      none
 // @match        https://www.chess.com/play/*
 // @match        https://www.chess.com/game/*
+// @match        https://www.chess.com/puzzles/rated
 // @icon         https://i.imgur.com/Z30WgSo.png
 // @grant       GM.getValue
 // @grant       GM.setValue
@@ -355,7 +356,7 @@ function main() {
 
     // Function to download the Python server using GM.download with fallback
     myFunctions.downloadServer = function() {
-        const serverUrl = 'https://raw.githubusercontent.com/longkidkoolstar/Chess-AI/refs/heads/main/chess_ai_server.py';
+        const serverUrl = 'https://raw.githubusercontent.com/SnoWz96x/ChessIA/refs/heads/main/chess_ai_server.py';
         const filename = 'chess_ai_server.py';
 
         // Show download notification
